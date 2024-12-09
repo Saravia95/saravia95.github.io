@@ -23,7 +23,6 @@
     Content-Type = "application/javascript"
 
 [[headers]]
-  for = "/portfolio/videos/Anti-VirusHD.mp4"
+  for = "/portfolio/videos/AntiVirusHD.mp4"
   [headers.values]
     Content-Type = "video/mp4"
-    
