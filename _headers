@@ -1,0 +1,7 @@
+/Build/*
+  Content-Encoding: br
+  Cache-Control: public, max-age=31536000, immutable
+
+/StreamingAssets/*
+  Content-Encoding: br
+  Cache-Control: public, max-age=31536000, immutable
