@@ -1,7 +1,0 @@
-/build/production/*
-  Content-Encoding: br
-  Cache-Control: public, max-age=31536000, immutable
-
-/build/portfolio/videos/*
-  Content-Encoding: br
-  Cache-Control: public, max-age=31536000, immutable
