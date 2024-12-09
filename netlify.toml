@@ -21,3 +21,9 @@
   [headers.values]
     Content-Encoding = "br"
     Content-Type = "application/javascript"
+
+[[headers]]
+  for = "/portfolio/videos/*.mp4"
+  [headers.values]
+    Content-Type = "video/mp4"
+    
